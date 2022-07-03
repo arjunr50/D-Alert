@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041345061226",
+    "project_id": "vehical-login",
+    "storage_bucket": "vehical-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041345061226:android:355bca32629a8c79188513",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041345061226-rc70v64huc8et5u2lhrnp80pspcvkmad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2md0gkB_vDF64nC2UrP0IdPVazrP0kGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041345061226-rc70v64huc8et5u2lhrnp80pspcvkmad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
