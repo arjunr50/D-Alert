@@ -22,7 +22,7 @@ D-Alert uses a tflite model extracted from training using MRL dataset and custom
  To run this project locally you must have flutter installed.
 
 $ flutter pub get
-start debugging the main.dart file
+- start debugging the main.dart file
 
 If this doesn't work try removig 'pubspec.lock' file and run 'flutter pub get'
 ## External dependencies
