@@ -1,16 +1,28 @@
-# app1
+# D-Alert
+## A flutter application for Driver’s Drowsiness Detection.
+D-Alert is an app which requires camera to operate. It can be used to detect drowsiness and alert the driver. It records the URL's which does'nt involves redirecton.
 
-A new Flutter project.
+![ENSTVA](https://drive.google.com/uc?export=view&id=15ySoOapXOcBoU0paYwXzlKNEHuEyAxlu)
+![ENSTVA](https://drive.google.com/uc?export=view&id=1hASu0II5Dbw63U6Gz6LS7TMOxpPQIxrY)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Alerts Driver(Alarm)
+- SMS alert to Emergency contact/ Concerned Authority
+- Suggests nearby rest staions.
+- Repeated ignorance to alarm leads to revealing of location to nearby control room.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+D-Alert uses a tflite model extracted from training using MRL dataset and custom dataset to do its tasks such as detecting level of alertness/drowsiness from the live video captured from mobile camera.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contents
+git config --global alias.tree '! git ls-tree --full-name --name-only -t -r HEAD | sed -e "s/[^-][^\/]*\//   |/g" -e "s/|\([^ ]\)/|-- \1/"'
+
+## Installation
+
+## Development
+
+## License
+
+MIT
