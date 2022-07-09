@@ -55,8 +55,9 @@ To run this project, you will need to add the following environment variables.
 ## Authors
 
 - [@arjunr50](https://github.com/arjunr50)
+- [@Indulekha603](https://github.com/Indulekha603)
 - 
-- 
+-
 
 
 ## Feedback
