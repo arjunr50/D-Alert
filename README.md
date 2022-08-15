@@ -3,7 +3,6 @@
 ## A flutter application for Driver’s Drowsiness Detection.
 - D-Alert is an app which requires camera to operate. 
 - It can be used to detect drowsiness and alert the driver. 
-- It records the URL's which does'nt involves redirecton.
 
 ## Screenshots
 ![D-Alert](https://drive.google.com/uc?export=view&id=1NA_KXmzcgo-Xvg4c9usBHJUEI4IOR_hV)
